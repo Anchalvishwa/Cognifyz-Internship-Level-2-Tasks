@@ -20,7 +20,7 @@ This repository contains my Level-2 submission for the **Cognifyz Web Developmen
 
 ## 📸 Preview
 
-![Preview](assets/Screenshot(189).png)
+![Preview](assets/preview.png)
 
 > A clean and intuitive weather dashboard UI with user-friendly interactions.
 
